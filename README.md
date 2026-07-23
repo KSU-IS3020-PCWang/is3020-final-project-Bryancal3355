@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Bryan Calderon  
+- GitHub username: Bryan Cal 3355
+- Project title: Pocket Ledger
+- Application purpose: A command-line personal budget and expense tracker that lets a user log transactions, categorize spending, check remaining budget, and save/load data from a CSV file.
 
 ## How to Run the Application
 
